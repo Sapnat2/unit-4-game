@@ -1,0 +1,37 @@
+body {
+  font-size: 30px;  
+}
+
+#WorkArea {
+ background-color: aqua;
+ width: 800px;
+ margin-left: 200px;
+ padding-left: 50px;
+
+}
+
+.crystal-image img {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    
+  }
+  .displayText {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+  }
+  div {
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+
+  h1 {
+    background-color:orange;
+    color: aliceblue;
+    width: 300px;
+
+  }
+
